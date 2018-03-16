@@ -1,0 +1,9 @@
+name: Pirate
+author: Minespree
+main: net.minespree.pirate.PiratePlugin
+version: ${project.version}
+softdepend: [FeatherPlugin]
+
+commands:
+  cage:
+    description: >
